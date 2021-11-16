@@ -21,3 +21,4 @@ If you'd like to start fresh, to the following:
 - run `sequelize db:migrate`
 - `cd ..` back into main folder
 - `npm start` and the port the API runs on is 8019
+"# Yasumin62" 
